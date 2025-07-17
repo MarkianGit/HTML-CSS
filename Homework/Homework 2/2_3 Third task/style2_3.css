@@ -1,0 +1,32 @@
+body{
+    background-color: #516F54;
+}
+*{
+    margin: 20px;
+    padding: 5px;
+}
+.flex{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    width: 350px;
+    height: 250px;
+    background-color: #d8e8d0;
+    border-radius: 8px;
+    transition: 1s;
+}
+.item p{
+    margin: 5px 20px 10px 20px;
+    padding: 5px;
+
+}
+.item h2{
+    margin-left: 20px;
+}
+.item:hover{
+    transition: 3s;
+    transform: scale(1.3)
+}
