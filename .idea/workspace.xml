@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Homework/Homework 1/1_1 First task/style1_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Homework 1/1_3 Third Task/style1_3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Homework 1/1_4 Fourth task/style1_4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Homework 1/1_5 Fifth task/style1_5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Homework 2/2_1 First task/style2_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Homework 2/2_1 Second task/style2_2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Homework 2/2_3 Third task/style2_3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Homework 2/2_4 Fourth task/style2_4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 1/01 First task/01 First task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 1/1_1 First task/1_1 First task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 1/02 Second task/02 Second task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 1/1_2 Second task/1_2 Second task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 1/03 Third Task/03 Third task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 1/1_3 Third Task/1_3 Third task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 1/04 Fourth task/04 Fourth task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 1/1_4 Fourth task/1_4 Fourth task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 1/05 Fifth task/05 Fifth task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 1/1_5 Fifth task/1_5 Fifth task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 2/01 First task/01 First task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 2/2_1 First task/2_1 First task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 2/02 Second task/02 Second task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 2/2_1 Second task/2_1 Second task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 2/03 Third task/03 Third task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 2/2_3 Third task/2_3 Third task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 2/04 Fourth task/04 Fourth task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 2/2_4 Fourth task/2_4 Fourth task.html" afterDir="false" />
-    </list>
+    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="Переробив структуру папок" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +102,7 @@
       <workItem from="1751366782237" duration="5224000" />
       <workItem from="1751382862809" duration="605000" />
       <workItem from="1752570864261" duration="10332000" />
-      <workItem from="1752752456763" duration="1236000" />
+      <workItem from="1752752456763" duration="2530000" />
     </task>
     <task id="LOCAL-00001" summary="Дійшов до перщого ДЗ">
       <option name="closed" value="true" />
@@ -219,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752573181150</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Переробив структуру папок">
+      <option name="closed" value="true" />
+      <created>1752753807769</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1752753807769</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +237,7 @@
     <MESSAGE value="Трошки переробив 4 завдання" />
     <MESSAGE value="Доробив" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Переробив структуру папок" />
+    <option name="LAST_COMMIT_MESSAGE" value="Переробив структуру папок" />
   </component>
 </project>
