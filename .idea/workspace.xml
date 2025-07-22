@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="Переробив структуру папок" />
+    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="Почав робити сайт">
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_4 (Allan)/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_4 (Allan)/style 3_4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_5/Lesson 3_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_5/style 3_5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_4 (Allan)/Lesson 3_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_4 (Allan)/Lesson 3_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_4 (Allan)/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +111,8 @@
       <workItem from="1751382862809" duration="605000" />
       <workItem from="1752570864261" duration="10332000" />
       <workItem from="1752752456763" duration="2530000" />
+      <workItem from="1753117245557" duration="4727000" />
+      <workItem from="1753184058543" duration="5512000" />
     </task>
     <task id="LOCAL-00001" summary="Дійшов до перщого ДЗ">
       <option name="closed" value="true" />
@@ -208,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752753807769</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Почав робити сайт">
+      <option name="closed" value="true" />
+      <created>1753127713971</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1753127713971</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +256,7 @@
     <MESSAGE value="Доробив" />
     <MESSAGE value="." />
     <MESSAGE value="Переробив структуру папок" />
-    <option name="LAST_COMMIT_MESSAGE" value="Переробив структуру папок" />
+    <MESSAGE value="Почав робити сайт" />
+    <option name="LAST_COMMIT_MESSAGE" value="Почав робити сайт" />
   </component>
 </project>
