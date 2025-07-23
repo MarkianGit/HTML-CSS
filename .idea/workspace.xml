@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="Почав робити сайт">
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_4 (Allan)/Contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_4 (Allan)/style 3_4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_5/Lesson 3_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_5/style 3_5.css" afterDir="false" />
+    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Homework/Homework 3/3_1 First Task/3_1 First task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Homework 3/3_1 First Task/style 3_1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_4 (Allan)/Lesson 3_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_4 (Allan)/Lesson 3_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 3/Lesson 3_4 (Allan)/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +108,8 @@
       <workItem from="1752570864261" duration="10332000" />
       <workItem from="1752752456763" duration="2530000" />
       <workItem from="1753117245557" duration="4727000" />
-      <workItem from="1753184058543" duration="5512000" />
+      <workItem from="1753184058543" duration="6125000" />
+      <workItem from="1753298878408" duration="973000" />
     </task>
     <task id="LOCAL-00001" summary="Дійшов до перщого ДЗ">
       <option name="closed" value="true" />
@@ -226,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753127713971</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=".">
+      <option name="closed" value="true" />
+      <created>1753204435089</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1753204435089</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,9 +259,9 @@
     <MESSAGE value="Зробив 5 завдання" />
     <MESSAGE value="Трошки переробив 4 завдання" />
     <MESSAGE value="Доробив" />
-    <MESSAGE value="." />
     <MESSAGE value="Переробив структуру папок" />
     <MESSAGE value="Почав робити сайт" />
-    <option name="LAST_COMMIT_MESSAGE" value="Почав робити сайт" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
