@@ -54,7 +54,7 @@ main{
     justify-content: center;
     align-items: center;
 }
-.asideone{
+.aside-one{
     background: #937575;
     height: 30vh;
     width: 27vw;
@@ -62,7 +62,7 @@ main{
     align-items: center;
     display: flex;
 }
-.asidetwo{
+.aside-two{
     background: #644C4C;
     height: 30vh;
     width: 27vw;
