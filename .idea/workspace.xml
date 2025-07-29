@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="Зробив третій макет">
-      <change afterPath="$PROJECT_DIR$/Homework/Homework 4/Homework 4_4/Homework 4_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Homework 4/Homework 4_4/style.css" afterDir="false" />
+    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="Зробив четвертий макет">
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson 5/Lesson_5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 4/Homework 4_2/Homework 4_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 4/Homework 4_2/Homework 4_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework 4/Homework 4_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 4/Homework 4_2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -79,11 +76,11 @@
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lesson 1.1-1.4\picture for lesson 1.4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson 5\favicon" />
+      <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson 5" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson 4\Lesson 4_3\img" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson 4\Lesson 4_1" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Homework\Homework 1\picture for homework 1" />
-      <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Homework\Homework 1.1\picture for homework 1" />
-      <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Homework\Homework 1.1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -116,7 +113,8 @@
       <workItem from="1753355612672" duration="13024000" />
       <workItem from="1753538129629" duration="10101000" />
       <workItem from="1753631594684" duration="2395000" />
-      <workItem from="1753700079176" duration="6880000" />
+      <workItem from="1753700079176" duration="8167000" />
+      <workItem from="1753808742212" duration="3230000" />
     </task>
     <task id="LOCAL-00001" summary="Дійшов до перщого ДЗ">
       <option name="closed" value="true" />
@@ -310,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753706147632</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Зробив четвертий макет">
+      <option name="closed" value="true" />
+      <created>1753707110035</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1753707110035</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +355,7 @@
     <MESSAGE value="Зробив перший макет" />
     <MESSAGE value="Зробив другий макет" />
     <MESSAGE value="Зробив третій макет" />
-    <option name="LAST_COMMIT_MESSAGE" value="Зробив третій макет" />
+    <MESSAGE value="Зробив четвертий макет" />
+    <option name="LAST_COMMIT_MESSAGE" value="Зробив четвертий макет" />
   </component>
 </project>
