@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="Зробив четвертий макет">
-      <change afterPath="$PROJECT_DIR$/Lessons/Lesson 5/Lesson_5.html" afterDir="false" />
+    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="5.1">
+      <change afterPath="$PROJECT_DIR$/Lessons/Lesson_5/Lesson5_2/Lesson5_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 5/Lesson_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/lesson5_1/Lesson5_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 5/favicon/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/lesson5_1/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 5/favicon/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/lesson5_1/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 5/favicon/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/lesson5_1/favicon/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 5/favicon/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/lesson5_1/favicon/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 5/favicon/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/lesson5_1/favicon/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 5/favicon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/lesson5_1/favicon/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/Lesson 5/favicon/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/lesson5_1/favicon/site.webmanifest" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +84,11 @@
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lesson 1.1-1.4\picture for lesson 1.4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson_5\lesson5_1" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson 5\favicon" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson 5" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson 4\Lesson 4_3\img" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson 4\Lesson 4_1" />
-      <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Homework\Homework 1\picture for homework 1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -114,7 +122,7 @@
       <workItem from="1753538129629" duration="10101000" />
       <workItem from="1753631594684" duration="2395000" />
       <workItem from="1753700079176" duration="8167000" />
-      <workItem from="1753808742212" duration="3230000" />
+      <workItem from="1753808742212" duration="5074000" />
     </task>
     <task id="LOCAL-00001" summary="Дійшов до перщого ДЗ">
       <option name="closed" value="true" />
@@ -316,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753707110035</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="5.1">
+      <option name="closed" value="true" />
+      <created>1753818366076</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1753818366076</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +372,7 @@
     <MESSAGE value="Зробив другий макет" />
     <MESSAGE value="Зробив третій макет" />
     <MESSAGE value="Зробив четвертий макет" />
-    <option name="LAST_COMMIT_MESSAGE" value="Зробив четвертий макет" />
+    <MESSAGE value="5.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.1" />
   </component>
 </project>
