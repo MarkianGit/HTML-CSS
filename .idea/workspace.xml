@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="564731">
-      <change afterPath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/img/Rectangle 21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/Homework5_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/Homework5_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="Зробив 5дз" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +115,7 @@
       <workItem from="1753700079176" duration="8167000" />
       <workItem from="1753808742212" duration="5119000" />
       <workItem from="1753965657131" duration="14373000" />
-      <workItem from="1753989760670" duration="5381000" />
+      <workItem from="1753989760670" duration="5576000" />
     </task>
     <task id="LOCAL-00001" summary="Дійшов до перщого ДЗ">
       <option name="closed" value="true" />
@@ -386,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753993113551</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Зробив 5дз">
+      <option name="closed" value="true" />
+      <created>1753995333636</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1753995333636</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Змінив назви папок" />
     <MESSAGE value="Виконав 4 завдання" />
     <MESSAGE value="Майже зробив 5 завдання" />
     <MESSAGE value="Зробив 5 завдання" />
@@ -429,6 +431,7 @@
     <MESSAGE value="5.1-2111" />
     <MESSAGE value="1232413131231" />
     <MESSAGE value="564731" />
-    <option name="LAST_COMMIT_MESSAGE" value="564731" />
+    <MESSAGE value="Зробив 5дз" />
+    <option name="LAST_COMMIT_MESSAGE" value="Зробив 5дз" />
   </component>
 </project>
