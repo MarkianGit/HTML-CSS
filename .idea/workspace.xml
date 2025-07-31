@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="5.1-2111">
+    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="1232413131231">
+      <change afterPath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/img/Burgers.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/Homework5_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/Homework5_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson_5/Lesson5_5Verstka/Lesson5_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/Lesson5_5Verstka/Lesson5_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson_5/Lesson5_5Verstka/img/Burgers.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/Lesson5_5Verstka/img/Burgers.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson_5/Lesson5_5Verstka/img/Rectangle 17(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson_5/Lesson5_5Verstka/img/pose_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson_5/Lesson5_5Verstka/img/pose_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/img/image 8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,27 +51,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/admin/WebstormProjects/HTML-CSS/Lessons/Lesson_5/Lesson5_5Verstka/img2",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/WebstormProjects/HTML-CSS/Lessons/Lesson_5/Lesson5_5Verstka/img2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson_5\Lesson5_5Verstka\img2" />
@@ -82,11 +81,11 @@
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lesson 1.1-1.4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Homework\Homework5\Homework5_2\img" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson_5\Lesson5_5Verstka\img" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson_5\Lesson5_5Verstka\img2" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Homework\Homework5\Homework5_1-2\picture" />
       <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson_5\lesson5_1" />
-      <recent name="C:\Users\admin\WebstormProjects\HTML-CSS\Lessons\Lesson 5\favicon" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -122,6 +121,7 @@
       <workItem from="1753700079176" duration="8167000" />
       <workItem from="1753808742212" duration="5119000" />
       <workItem from="1753965657131" duration="14373000" />
+      <workItem from="1753989760670" duration="3217000" />
     </task>
     <task id="LOCAL-00001" summary="Дійшов до перщого ДЗ">
       <option name="closed" value="true" />
@@ -371,7 +371,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753989302775</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="1232413131231">
+      <option name="closed" value="true" />
+      <created>1753989987021</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1753989987021</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +397,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Зробив другу задачу" />
     <MESSAGE value="Зробив третю задачу" />
     <MESSAGE value="Змінив назви папок" />
     <MESSAGE value="Виконав 4 завдання" />
@@ -414,6 +421,7 @@
     <MESSAGE value="5.1-2" />
     <MESSAGE value="5.1-211" />
     <MESSAGE value="5.1-2111" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.1-2111" />
+    <MESSAGE value="1232413131231" />
+    <option name="LAST_COMMIT_MESSAGE" value="1232413131231" />
   </component>
 </project>
