@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="Урок 6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_1/homework5_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_1/homework5_1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_1/homework5_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_1/homework5_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/homework5_1-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_2/homework5_1-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/picture/car.avif" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_2/picture/car.avif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_3/homework5_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_3/homework5_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_3/img/Burgers.png" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_3/img/Burgers.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_3/img/Rectangle 16(2).png" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_3/img/Rectangle 16(2).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_3/img/Rectangle 17(2).png" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_3/img/Rectangle 17(2).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_3/img/Rectangle 21.png" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_3/img/Rectangle 21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Homework5/Homework5_3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Homework 5/Homework5_3/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/Lesson5_2-5_3/Lesson5_2-5_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/Lesson5_2-5_3/Lesson5_2-5_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/Lesson5_4/Lessom5_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/Lesson5_4/Lessom5_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/Lesson5_5Verstka/Lesson5_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/Lesson5_5Verstka/Lesson5_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/Lesson5_5Verstka/img/Burgers.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/Lesson5_5Verstka/img/Burgers.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/Lesson5_5Verstka/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/Lesson5_5Verstka/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/lesson5_1/Lesson5_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/lesson5_1/Lesson5_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/lesson5_1/favicon/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/lesson5_1/favicon/android-chrome-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/lesson5_1/favicon/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/lesson5_1/favicon/android-chrome-512x512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/lesson5_1/favicon/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/lesson5_1/favicon/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/lesson5_1/favicon/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/lesson5_1/favicon/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/lesson5_1/favicon/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/lesson5_1/favicon/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/lesson5_1/favicon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/lesson5_1/favicon/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson5/lesson5_1/favicon/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 5/lesson5_1/favicon/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson6/Lesson6_2/lesson6_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 6/Lesson6_2/lesson6_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson6/Lesson6_3/lesson6_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 6/Lesson6_3/lesson6_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson6/Lesson6_4/lesson6_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 6/Lesson6_4/lesson6_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson6/Lesson6_4_5/lesson6_4_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 6/Lesson6_4_5/lesson6_4_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson6/Lesson6_5/lesson6_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 6/Lesson6_5/lesson6_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson6/Lesson6_6/lesson6_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 6/Lesson6_6/lesson6_6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson6/Lesson6_7/lesson6_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 6/Lesson6_7/lesson6_7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson6/lesson6_1/lesson6_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson 6/lesson6_1/lesson6_1.html" afterDir="false" />
-    </list>
+    <list default="true" id="ca6ba5e9-da36-4589-8e9c-11e0fbc213c5" name="Changes" comment="Дз 6/1.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="tsconfig.json" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -154,6 +120,7 @@
       <workItem from="1753995422498" duration="315000" />
       <workItem from="1754055610706" duration="6732000" />
       <workItem from="1754131350346" duration="8798000" />
+      <workItem from="1754588014203" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="Дійшов до перщого ДЗ">
       <option name="closed" value="true" />
@@ -459,7 +426,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754138228161</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Дз 6/1">
+      <option name="closed" value="true" />
+      <created>1754588589229</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1754588589229</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,7 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Переробив структуру папок" />
     <MESSAGE value="Почав робити сайт" />
     <MESSAGE value="." />
     <MESSAGE value="Почав робити дз" />
@@ -502,6 +476,7 @@
     <MESSAGE value="Доробив 5 дз" />
     <MESSAGE value="Доробив 5 дз/1" />
     <MESSAGE value="Урок 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Урок 6" />
+    <MESSAGE value="Дз 6/1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз 6/1" />
   </component>
 </project>
